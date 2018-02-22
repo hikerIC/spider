@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonShootGame-master/.idea/PythonShootGame-master.iml" filepath="$PROJECT_DIR$/../PythonShootGame-master/.idea/PythonShootGame-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alien/.idea/alien.iml" filepath="$PROJECT_DIR$/../alien/.idea/alien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../plane/.idea/plane.iml" filepath="$PROJECT_DIR$/../plane/.idea/plane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spider.iml" filepath="$PROJECT_DIR$/.idea/spider.iml" />
+    </modules>
+  </component>
+</project>
